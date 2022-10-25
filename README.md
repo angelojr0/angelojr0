@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @angelojr0
-- 👀 I’m interested in DevOps and Computer Graphics
-- 🌱 I’m currently learning Kubernetes, Dockers and Terraforms
-- 💞️ I’m looking to collaborate on Open Source Community
-- 📫 How to reach me: https://www.linkedin.com/in/angelo-junior-818068160/
+
